@@ -1,2 +1,2 @@
-# Dive-into-C-
+# Dive-into-C++
 C++ Learning Curve Codes
